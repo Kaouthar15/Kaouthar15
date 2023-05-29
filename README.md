@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kaouthar El Azami</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaouthar15" alt="kaouthar15" /></a> </p>
-
 - 🌱 I’m currently learning **SQL, PHP, C**
 
 - 📫 How to reach me **elazamikaoutar@gmail.com**
