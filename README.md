@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kaouthar El Azami</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-- 🌱 I’m currently learning **SQL, PHP, REACT, LARAVEL**
+- 🌱 I’m currently learning **SQL, REACT, LARAVEL**
 
 - 📫 How to reach me **elazamikaoutar@gmail.com**
 
