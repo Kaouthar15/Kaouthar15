@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaouthar El Azami</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-- 🔭 I’m currently working on **NTT DATA Morocco**
+- 🔭 I’m currently working on **NTT DATA**
 
 - 🌱 I’m currently learning **JAVA - ANGULAR - PYTHON**
 
