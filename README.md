@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaouthar El Azami</h1>
-<h3 align="center">A Passionate Web Developer From Morocco</h3>
+<h3 align="center">A Passionate Developer From Morocco</h3>
 
 - 🔭 I’m currently working on **NTT DATA**
 
