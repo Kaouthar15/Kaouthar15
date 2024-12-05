@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NTT DATA**
 
-- 🌱 I’m currently learning **JAVA - ANGULAR**
+- 🌱 I’m currently learning **JAVA - ANGULAR - ML&AI**
 
 - 📫 How to reach me **elazamikaoutar@gmail.com**
 
