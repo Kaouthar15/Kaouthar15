@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Kaouthar EL AZAMI</h1>
+<h1 align="center">Hello 👋, I'm Kaouthar El Azami</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer From Morocco</h3>
 
 - 🔭 I’m currently working on **NTT DATA**
